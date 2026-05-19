@@ -6,24 +6,20 @@
   <title>Egor Sevastyanov</title>
 
   <style>
+
     body {
       margin: 0;
       background: #161616;
       color: #d8d8d8;
       font-family: "Helvetica Neue", sans-serif;
 
-      display: flex;
-      align-items: center;
-      justify-content: center;
-
-      height: 100vh;
       padding: 40px;
-
       box-sizing: border-box;
     }
 
     .container {
       max-width: 700px;
+      margin: 0 auto;
     }
 
     h1 {
@@ -39,52 +35,81 @@
     }
 
     .hero-image {
-  width: 100%;
-  max-width: 700px;
+      width: 100%;
+      max-width: 700px;
+      margin-bottom: 40px;
+      display: block;
+    }
 
-  margin-bottom: 40px;
-
-  display: block;
-}
     .work-list {
-  margin-top: 80px;
-}
+      margin-top: 80px;
+    }
 
-.year-heading {
-  font-size: 15px;
-  color: #666;
-  margin-top: 50px;
-  margin-bottom: 20px;
-}
+    .work-list-title {
+      font-size: 14px;
+      letter-spacing: 1px;
+      color: #666;
+      margin-bottom: 40px;
+    }
 
-.work-item {
-  margin-bottom: 18px;
-}
-    
+    .year-heading {
+      font-size: 15px;
+      color: #666;
+      margin-top: 50px;
+      margin-bottom: 20px;
+    }
+
+    .work-item {
+      margin-bottom: 18px;
+      font-size: 20px;
+    }
+
+    a {
+      color: #d8d8d8;
+      text-decoration: none;
+      border-bottom: 1px solid #444;
+    }
+
+    a:hover {
+      color: white;
+      border-color: white;
+    }
+
   </style>
 </head>
 
 <body>
+
   <div class="container">
 
-      <img src="images/MagnoliaFilmLab336234.jpg" class="hero-image">
+    <img src="images/MagnoliaFilmLab336234.jpg" class="hero-image">
 
-    
     <h1>Hi, I’m Egor.</h1>
 
     <p>
       A living archive of films, music, streams,
-      field recordings and audiovisual works
-      will appear here soon.
+      field recordings and audiovisual works.
     </p>
 
-    WORKS<br>
+    <div class="work-list">
 
-2026<br>
+      <div class="work-list-title">
+        WORKS
+      </div>
 
-<a href="works/firework/">Firework</a>    
-  <br>
-    
+      <div class="year-heading">
+        2026
+      </div>
+
+      <div class="work-item">
+        <a href="works/firework/">
+          Firework
+        </a>
+      </div>
+
+    </div>
+
   </div>
+
 </body>
 </html>
