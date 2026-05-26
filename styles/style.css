@@ -141,6 +141,8 @@ margin-bottom:60px;
 
 width:100%;
 
+line-height:0;
+
 }
 
 .video-wrapper {
@@ -152,8 +154,6 @@ width:100%;
 padding-top:56.25%;
 
 overflow:hidden;
-
-background:#111;
 
 }
 
