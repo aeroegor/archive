@@ -153,8 +153,9 @@ display:flex;
 align-items:center;
 justify-content:center;
 
-font-size:28px;
+font-size:24px;
 font-weight:300;
+  backdrop-filter: blur(3px);
 
 color:white;
 
