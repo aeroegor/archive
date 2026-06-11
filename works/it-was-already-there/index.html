@@ -42,6 +42,33 @@ Duration: 44 min
 Recorded during a live PeaceTime Station transmission.
     </p>
 
+<div class="video-placeholder" onclick="loadVideo()">
+
+<img
+src="images/pts88-cover-bw.jpg"
+alt="It Was Already There">
+
+<div class="play-button">▶</div>
+
+</div>
+
+    <script>
+
+function loadVideo() {
+
+document.querySelector('.video-placeholder').innerHTML = `
+
+<iframe
+src="https://www.youtube.com/embed/iD0NbFm3xY4?autoplay=1"
+allowfullscreen>
+</iframe>
+
+`;
+
+}
+
+</script>
+    
     
     <div class="video">
 
