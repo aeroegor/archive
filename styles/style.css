@@ -302,6 +302,20 @@ flex-shrink:0;
 
 }
 
+.related {
+
+margin-top:60px;
+margin-bottom:60px;
+
+}
+
+.related p {
+
+font-size:15px;
+color:#777;
+
+}
+
 .work-type {
 
 font-size:14px;
