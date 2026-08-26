@@ -354,3 +354,25 @@ color:white;
 border-color:white;
 
 }
+
+.image-pair {
+
+display:flex;
+
+gap:16px;
+
+margin:70px 0;
+
+}
+
+.image-pair img {
+
+flex:1;
+
+display:block;
+
+width:100%;
+
+height:auto;
+
+}
