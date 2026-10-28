@@ -1,48 +1,49 @@
 # Gear links → Perfect Circuit (affiliate). One line = one item.
-# Format: /g/<short-name>  <affiliate link>  302
+# Format: /g/<short-name>  <affiliate link with sid>  302
+# sid = source-gear. yt = YouTube descriptions (all /g/ links).
 
 # Moog Mother-32
-/g/mother-32  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fmoog-mother-32.html  302
+/g/mother-32  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-mother-32&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fmoog-mother-32.html  302
 # Moog Subharmonicon
-/g/subharmonicon  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fmoog-subharmonicon.html  302
+/g/subharmonicon  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-subharmonicon&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fmoog-subharmonicon.html  302
 # Soma Pipe
-/g/pipe  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fsoma-the-pipe.html  302
+/g/pipe  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-pipe&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fsoma-the-pipe.html  302
 # 4ms MetaModule
-/g/metamodule  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2F4ms-metamodule.html  302
+/g/metamodule  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-metamodule&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2F4ms-metamodule.html  302
 # Doepfer A-138
-/g/a-138  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fdoepfer-a138a.html  302
+/g/a-138  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-a-138&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fdoepfer-a138a.html  302
 # Rides in the Storm CON
-/g/con  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Frides-in-the-storm-con.html  302
+/g/con  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-con&url=https%3A%2F%2Fwww.perfectcircuit.com%2Frides-in-the-storm-con.html  302
 # Arturia KeyStep Pro
-/g/keystep-pro  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fmidi-controllers-sequencers%2Farturia-keystep-series%2Farturia-keystep-pro-1.html  302
+/g/keystep-pro  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-keystep-pro&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fmidi-controllers-sequencers%2Farturia-keystep-series%2Farturia-keystep-pro-1.html  302
 # Expert Sleepers Disting mk4
-/g/disting  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fexpert-sleepers-disting-mk4.html  302
+/g/disting  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-disting&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fexpert-sleepers-disting-mk4.html  302
 # Yamaha Reface CP
-/g/reface-cp  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fyamaha-reface-cp.html  302
+/g/reface-cp  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-reface-cp&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fyamaha-reface-cp.html  302
 # Arturia DrumBrute Impact
-/g/drumbrute-impact  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Farturia-drumbrute-impact.html  302
+/g/drumbrute-impact  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-drumbrute-impact&url=https%3A%2F%2Fwww.perfectcircuit.com%2Farturia-drumbrute-impact.html  302
 # Numark PT-01 Scratch
-/g/pt-01  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fnumark-pt01-1.html  302
+/g/pt-01  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-pt-01&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fnumark-pt01-1.html  302
 # TC Electronic Combo Deluxe 65
-/g/combo-deluxe  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-combo-deluxe-65.html  302
+/g/combo-deluxe  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-combo-deluxe&url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-combo-deluxe-65.html  302
 # TC Electronic Ditto X4 Looper
-/g/ditto-x4  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-ditto-x4.html  302
+/g/ditto-x4  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-ditto-x4&url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-ditto-x4.html  302
 # TC Electronic June 60
-/g/june-60  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-june-60-v2.html  302
+/g/june-60  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-june-60&url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-june-60-v2.html  302
 # Boss TR-2
-/g/tr-2  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fboss-tr-2-tremolo-pedal.html  302
+/g/tr-2  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-tr-2&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fboss-tr-2-tremolo-pedal.html  302
 # Ibanez TS9DX
-/g/ts9dx  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fibanez-ts9dx-turbo-tube-screamer.html  302
+/g/ts9dx  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-ts9dx&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fibanez-ts9dx-turbo-tube-screamer.html  302
 # TC Electronic Hall of Fame
-/g/hall-of-fame  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-hall-of-fame-2.html  302
+/g/hall-of-fame  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-hall-of-fame&url=https%3A%2F%2Fwww.perfectcircuit.com%2Ftc-electronic-hall-of-fame-2.html  302
 # Pittsburgh Modular Eurorack Travel Case
-/g/case  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fpittsburgh-modular-structure-ep-208-eurorack-enclosure-1.html  302
+/g/case  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-case&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fpittsburgh-modular-structure-ep-208-eurorack-enclosure-1.html  302
 # IK Multimedia iLoud Micro
-/g/iloud-micro  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fpro-audio%2Fik-multimedia-iloud-micro.html  302
+/g/iloud-micro  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-iloud-micro&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fpro-audio%2Fik-multimedia-iloud-micro.html  302
 # Korg Volca Kick
-/g/volca-kick  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fkorg-volca-kick-1.html  302
+/g/volca-kick  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-volca-kick&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fkorg-volca-kick-1.html  302
 # Akai MIDImix
-/g/midimix  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fakai-midimix.html  302
+/g/midimix  https://link.perfectcircuit.com/t/v1/8-12626-393573-9759?sid=yt-midimix&url=https%3A%2F%2Fwww.perfectcircuit.com%2Fm2e%2Fakai-midimix.html  302
 
 
 # /g/ itself → home
