@@ -378,3 +378,16 @@ height:auto;
 display:block;
 
 }
+
+.container > p a,
+.section p a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #555;
+  text-underline-offset: 3px;
+}
+
+.container > p a:hover,
+.section p a:hover {
+  color: #d8d8d8;
+}
