@@ -391,3 +391,29 @@ display:block;
 .section p a:hover {
   color: #d8d8d8;
 }
+
+.bandcamp {
+  container-type: inline-size;
+}
+
+.bandcamp iframe {
+  height: calc(100cqw + 122px + var(--tracks, 0) * 33px) !important;
+}
+
+@container (max-width: 309px) {
+  .bandcamp iframe {
+    height: calc(100cqw + 140px + var(--tracks, 0) * 33px) !important;
+  }
+}
+
+.work-header a {
+  border-bottom: none;
+  text-decoration: underline;
+  text-decoration-color: #444;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 6px;
+}
+
+.work-header a:hover {
+  text-decoration-color: white;
+}
