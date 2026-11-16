@@ -463,3 +463,6 @@ display:block;
   margin-top: 0;
   margin-bottom: 70px;
 }
+.station-live .play-button {
+  top: 30%;
+}
