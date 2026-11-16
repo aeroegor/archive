@@ -417,3 +417,49 @@ display:block;
 .work-header a:hover {
   text-decoration-color: white;
 }
+
+/* PeaceTime Station */
+.video-placeholder.no-image {
+  background: #222;
+}
+.station-live {
+  margin-bottom: 18px;
+}
+.on-air {
+  font-size: 14px;
+  color: #666;
+  margin-top: 0;
+  margin-bottom: 70px;
+}
+.on-air-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #a8473b;
+  margin-right: 8px;
+  vertical-align: 1px;
+}
+.transmission {
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+.transmission-title {
+  font-size: 16px;
+  color: #d8d8d8;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.transmission-date {
+  font-size: 14px;
+  color: #666;
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+.transmission-text {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #777;
+  margin-top: 0;
+  margin-bottom: 70px;
+}

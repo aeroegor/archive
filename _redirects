@@ -1,3 +1,7 @@
+# Short link to the station page
+/station  /works/peacetime-station/  301
+/station/  /works/peacetime-station/  301
+
 # Gear links → Perfect Circuit (affiliate). One line = one item.
 # Format: /g/<short-name>  <affiliate link with sid>  302
 # sid = source-gear. yt = YouTube descriptions (all /g/ links).
