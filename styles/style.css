@@ -463,6 +463,7 @@ display:block;
   margin-top: 0;
   margin-bottom: 70px;
 }
-.station-live .play-button {
-  top: 30%;
+/* Тёплый плёночный тон заставок плееров (вариант B) */
+.station-page .video-placeholder img {
+  filter: saturate(.62) sepia(.24) brightness(.98);
 }
