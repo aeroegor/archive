@@ -400,7 +400,7 @@ display:block;
   height: calc(100cqw + 122px + var(--tracks, 0) * 33px) !important;
 }
 
-@container (max-width: 309px) {
+@container (max-width: 299px) {
   .bandcamp iframe {
     height: calc(100cqw + 140px + var(--tracks, 0) * 33px) !important;
   }
